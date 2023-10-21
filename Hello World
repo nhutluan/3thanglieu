@@ -5,4 +5,8 @@ int main() {
     return 0;
 }
  lan2
+<<<<<<< HEAD
  //chung da tung mot thoi la ae
+=======
+ lan3
+>>>>>>> 12031014d87028eb5179e1485a2eeb5f5488065e
